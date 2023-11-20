@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 ## Project
 
 Developed a focus timer pomodoro's style, in which it's possible to define the minutes of focused work or use the default time of 25 minutes.
-- To access the finished project, [click here](https://pcbandeira-m.github.io/focus-timer/).
+- To access the finished project, [click here](https://655ba4372589631ad0479f45--shimmering-centaur-d6823b.netlify.app/).
 
 ## Layout
 
@@ -93,7 +93,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Foi desenvolvido um timer de foco estilo pomodoro, no qual é possível definir os motivos de trabalho focado ou usar o tempo padrão de 25 minutos.
 
-- Para acessar o projeto finalizado, [clique aqui](https://pcbandeira-m.github.io/focus-timer/).
+- Para acessar o projeto finalizado, [clique aqui](https://655ba4372589631ad0479f45--shimmering-centaur-d6823b.netlify.app/).
 
 ## Layout
 
